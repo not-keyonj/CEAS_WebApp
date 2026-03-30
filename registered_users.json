@@ -1,0 +1,50 @@
+[
+    {
+        "full_name": "Keyon John",
+        "email": "keyonj5462@tamcc.edu.gd",
+        "student_id": "AL202401542",
+        "phone": "4734593247",
+        "password": "$2y$10$wn\/dNUlMpd27DhZplVGMTezrsqSBLZw0KQRYRk7DPOISngIfwjzRu",
+        "user_type": "student",
+        "campus": "tamcc_stgeorge",
+        "school_name": "TAMCC \u2013 St. George's Campus",
+        "registered": "2026-02-25 03:03:27",
+        "status": "active"
+    },
+    {
+        "full_name": "Jaden Joseph",
+        "email": "omegaflame63@gmail.com",
+        "student_id": "1234",
+        "phone": "4734593247",
+        "password": "$2y$10$DVFh2zU93QYrkX5Kztc9.OY1\/xwYPIp4BOPsdKewPFMii5cC5bjmS",
+        "user_type": "teacher",
+        "campus": "tamcc_stgeorge",
+        "school_name": "TAMCC \u2013 St. George's Campus",
+        "registered": "2026-03-30 19:31:48",
+        "status": "active"
+    },
+    {
+        "full_name": "Jaden Joseph",
+        "email": "keyonmjohn473@gmail.com",
+        "student_id": "1234",
+        "phone": "4734593247",
+        "password": "$2y$10$aavhUAvZsb9q\/Nt.E.GeF.nHLDFbIlWBKceOoW3kCShMxBCphNUYW",
+        "user_type": "admin",
+        "campus": "tamcc_stgeorge",
+        "school_name": "TAMCC \u2013 St. George's Campus",
+        "registered": "2026-03-31 00:42:11",
+        "status": "active"
+    },
+    {
+        "full_name": "Shanida Shade",
+        "email": "flame9048@gmail.com",
+        "student_id": "8642",
+        "phone": "4734593247",
+        "password": "$2y$10$172e\/654oUDy6z4p4ctgRuWpEGLk5JQ.X1q3WAmn9WKR3MUPqOU8C",
+        "user_type": "teacher",
+        "campus": "tamcc_stpatrick",
+        "school_name": "TAMCC \u2013 St. Patrick's Campus",
+        "registered": "2026-03-31 00:45:28",
+        "status": "active"
+    }
+]
